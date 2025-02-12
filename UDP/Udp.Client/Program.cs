@@ -2,6 +2,8 @@
 using System.Net.Sockets;
 using System.Text;
 
+namespace Udp.Client;
+
 internal static class Program
 {
     static async Task Main()

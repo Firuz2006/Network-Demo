@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Udp.Server;
 
-internal class Program
+internal static class Program
 {
     static async Task Main()
     {
